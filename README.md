@@ -6,7 +6,7 @@ A Java Servlet-based web application that converts large images into multiple pr
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home-page.png)
 
 ### Upload Image
 
@@ -18,7 +18,7 @@ A Java Servlet-based web application that converts large images into multiple pr
 
 ### PDF Export
 
-![PDF Export](screenshots/download images.PNG)
+![PDF Export](screenshots/download-images.png)
 
 
 # 🖼️ Image Splitter Web Application
