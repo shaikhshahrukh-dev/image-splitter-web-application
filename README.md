@@ -156,7 +156,7 @@ WebContent/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/image-splitter.git
+git clone https://github.com/shaikhshahrukh-dev/image-splitter-web-application.git
 
 2. Import the project into Eclipse or IntelliJ IDEA.
 
