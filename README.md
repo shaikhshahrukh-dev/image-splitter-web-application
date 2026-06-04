@@ -1,5 +1,28 @@
 # 🖼️ Image Splitter Web Application
 
+A Java Servlet-based web application that converts large images into multiple printable pages.
+
+## 📸 Application Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home-page.png)
+
+### Upload Image
+
+![Upload Image](screenshots/upload-image.png)
+
+### Generated Page Preview
+
+![Page Preview](screenshots/page-preview.png)
+
+### PDF Export
+
+![PDF Export](screenshots/pdf-export.png)
+
+
+# 🖼️ Image Splitter Web Application
+
 A Java Servlet-based web application that converts large images into multiple printable pages. The application automatically splits an image into A4, Letter, or Custom-sized pages while preserving image quality and providing print-ready output.
 
 ## ✨ Features
