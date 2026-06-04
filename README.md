@@ -54,12 +54,19 @@ A Java Servlet-based web application that converts large images into multiple pr
 src/
 └── com.pack1/
 ├── DownloadServlet.java
+
 ├── ImageInfoServlet.java
+
 ├── SliceServlet.java
+
 ├── PdfServlet.java
+
 ├── ZipServlet.java
+
 ├── SliceLayout.java
+
 ├── SliceSettings.java
+
 └── ImageSplitterUtil.java
 
 WebContent/
