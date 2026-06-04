@@ -52,7 +52,9 @@ A Java Servlet-based web application that converts large images into multiple pr
 ## 📂 Project Structure
 
 src/
+
 └── com.pack1/
+
 ├── DownloadServlet.java
 
 ├── ImageInfoServlet.java
@@ -70,9 +72,13 @@ src/
 └── ImageSplitterUtil.java
 
 WebContent/
+
 ├── index.jsp
+
 ├── uploads/
+
 ├── output/
+
 └── images/
 
 ---
